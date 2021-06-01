@@ -1,10 +1,8 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://www.canva.com/design/DAEe-J2eBwI/share/preview?token=PxsueRujFibrDF9aUqrQdQ&role=EDITOR&utm_content=DAEe-J2eBwI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Olá, Me chamo Diana Targino 👋
+Sou estudante de Computação e Informatica pela facauldade UFERSA.
+- 🔭 Atualmente estou estudando programação JavaScritp.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
